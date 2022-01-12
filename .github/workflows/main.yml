@@ -23,3 +23,6 @@ jobs:
 
       - name: Test 🚨
         run: npm test
+
+      - name: All ready 🚨
+        run: echo "CI/CD done"
